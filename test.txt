@@ -1,0 +1,3 @@
+ADD_CHILD Victoire Megan female
+ADD_CHILD Charlie Jennifer female
+GET_RELATIONSHIP John paternal_uncle
